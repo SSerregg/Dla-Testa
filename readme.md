@@ -6,8 +6,10 @@ LICESE: [MIT](./license.md)
 
 ---
 ### Содержание:
-1. 
-2. [git add](./add.md)
+1. [introduction](/introduction.md)
+2. [base commands](./add.md)
+3. [for start]()
+4. [bonus]
 ---
 
 
