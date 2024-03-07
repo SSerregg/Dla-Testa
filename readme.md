@@ -7,9 +7,8 @@ LICESE: [MIT](./license.md)
 ---
 ### Содержание:
 1. [introduction](/introduction.md)
-2. [base commands](./add.md)
-3. [for start]()
-4. [bonus]
+2. [base commands](/comands.md)
+3. [work with SSH-key](/SSH.md)
 ---
 
 
